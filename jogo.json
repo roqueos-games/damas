@@ -1,0 +1,55 @@
+{
+  "id": "checkers",
+  "slug": "damas",
+  "versaoDoContrato": 1,
+  "nome": {
+    "pt-BR": "Damas",
+    "en-US": "Checkers",
+    "es-ES": "Damas",
+    "fr-FR": "Dames",
+    "de-DE": "Dame",
+    "ja-JP": "チェッカー",
+    "zh-CN": "国际跳棋",
+    "hi-IN": "चेकर्स",
+    "ru-RU": "Шашки",
+    "ar-AR": "داما"
+  },
+  "descricao": {
+    "pt-BR": "Damas brasileiras, captura obrigatória e dama voadora, online por QR/código ou local.",
+    "en-US": "Brazilian draughts, mandatory capture and flying kings, online by QR/code or local.",
+    "es-ES": "Damas brasileñas, captura obligatoria y dama voladora, online por QR/código o local.",
+    "fr-FR": "Dames brésiliennes, prise obligatoire et dame volante, en ligne par QR/code ou en local.",
+    "de-DE": "Brasilianisches Dame, Schlagzwang und fliegende Dame, online per QR/Code oder lokal.",
+    "ja-JP": "ブラジリアンチェッカー, 取りは強制で飛び駒キング、QR/コードでオンラインまたはローカル。",
+    "zh-CN": "巴西国际跳棋 —— 必须吃子、飞王，通过二维码/房间码联机或本地对战。",
+    "hi-IN": "ब्राज़ीलियन चेकर्स, कैप्चर अनिवार्य और उड़ने वाली बादशाह, QR/कोड से ऑनलाइन या लोकल।",
+    "ru-RU": "Бразильские шашки, обязательное взятие и летающая дамка, онлайн по QR/коду или локально.",
+    "ar-AR": "داما برازيلية, الأكل إجباري وملكة طائرة، أونلاين عبر QR/رمز أو محليًا."
+  },
+  "seo": {
+    "pt-BR": {
+      "resumo": "Damas brasileiras online grátis: captura obrigatória, dama voadora, contra o computador ou com um amigo por código.",
+      "sobre": "Damas na regra brasileira, que é a que muda o jogo: a captura é obrigatória, você é obrigado a escolher a sequência que come mais, e a dama anda a distância. Online por código de sala ou no mesmo aparelho.",
+      "comoJogar": "Clique na peça e na casa. Quando há captura disponível, só as jogadas que capturam ficam ativas — a regra é do jogo, não do programa."
+    },
+    "en-US": {
+      "resumo": "Free online Brazilian draughts: forced capture, flying kings, against the computer or a friend by room code.",
+      "sobre": "Draughts under Brazilian rules, which is what changes the game: capture is mandatory, you must take the line that captures most, and kings move at range. Online by room code or on one device.",
+      "comoJogar": "Click the piece, then the square. When a capture exists, only capturing moves stay active — that is the rule, not the program."
+    }
+  },
+  "etiquetas": ["Board", "Strategy", "Multiplayer"],
+  "capa": "public/capa.jpg",
+  "icone": "public/icone.svg",
+  "brilho": "rgba(244, 63, 94, 0.5)",
+  "janela": {
+    "largura": 520,
+    "altura": 640,
+    "minLargura": 340,
+    "minAltura": 480
+  },
+  "aceitaConvite": true,
+  "entraNoPodio": false,
+  "recorde": null,
+  "capacidades": ["sala"]
+}
